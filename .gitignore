@@ -1,0 +1,22 @@
+# dependencies
+/node_modules
+
+# Next.js build output
+/.next
+/out
+
+# local environment files (keep the example)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+!.env.example
+
+# Vercel project metadata
+.vercel
+
+# logs and OS/editor files
+*.log
+.DS_Store
+*.tsbuildinfo
